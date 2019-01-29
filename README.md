@@ -1,1 +1,3 @@
-# neighborhoodchange.gihub.io
+# Neighborhood Change Research Project
+
+Landing site for upcoming research project
