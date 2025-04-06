@@ -1,0 +1,20 @@
+title: Neighborhood Change Research Project
+description: Landing site for upcoming research project
+url: https://neighborhoodchange.org
+baseurl: ""
+
+# Fix the typo in the repository name
+repository: neighborhoodchange/neighborhoodchange.github.io
+
+# Jekyll SEO tag settings
+lang: en-US
+locale: en_US
+github:
+  is_project_page: true
+  repository_url: https://github.com/neighborhoodchange/neighborhoodchange.github.io
+
+# Jekyll build settings
+markdown: kramdown
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag 
